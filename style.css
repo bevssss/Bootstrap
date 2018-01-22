@@ -1,0 +1,35 @@
+.navbar{
+	background-color: pink;
+}
+.navbar-nav a{
+	color:magenta;
+}
+.carousel-caption{
+	color:#0000ff;
+
+}
+.carousel-item img{
+	height: 550px;
+
+}
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(img/character.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: darkmagenta;
+    text-shadow: white 0.3em 0.3em 0.3em;
+
+}
+.jumbotron p{
+	font-weight: 700;
+}
+.cardbody h5{
+	color: yellow;
+}
+.space{
+	padding-top:50px;
+	
+}
+
